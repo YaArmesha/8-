@@ -1,0 +1,21 @@
+.grupps {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 5px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.joo {
+  background: #4252FF;
+  height: 2.5em;
+  border: none;
+  width: 245px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.gg {
+  width: 100%;
+}
